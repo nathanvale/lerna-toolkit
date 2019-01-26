@@ -1,0 +1,8 @@
+{
+  "name": "lerna-toolkit",
+  "version": "1.0.0",
+  "description": "A toolkit to make configuring Lerna monorepos a breeze.",
+  "main": "index.js",
+  "author": "hi@nathanvale.com",
+  "license": "MIT"
+}
